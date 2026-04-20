@@ -20,12 +20,9 @@ Key features could include:
 
 ## Technology Stack
 
-* AR Framework: (e.g., ARCore, ARKit, Vuforia)
-* Game engine / platform: (e.g., Unity3D, Unreal Engine, or native mobile)
-* Programming Languages: (e.g., C#, Java, Swift)
-* UI/UX: HTML/CSS/JS if Web AR, or native mobile UI components
-* Version Control: Git (hosted on GitHub)
-* Optional: Backend services for user data, scores, analytics
+* AR Framework: 8th Wall
+* Programming Languages: typescript
+* UI/UX: HTML/CSS/JS 
 
 ## Architecture & Folder Structure
 
